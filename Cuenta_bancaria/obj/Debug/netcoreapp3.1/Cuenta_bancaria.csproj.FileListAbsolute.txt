@@ -1,0 +1,14 @@
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\bin\Debug\netcoreapp3.1\Cuenta_bancaria.exe
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\bin\Debug\netcoreapp3.1\Cuenta_bancaria.deps.json
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\bin\Debug\netcoreapp3.1\Cuenta_bancaria.runtimeconfig.json
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\bin\Debug\netcoreapp3.1\Cuenta_bancaria.runtimeconfig.dev.json
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\bin\Debug\netcoreapp3.1\Cuenta_bancaria.dll
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\bin\Debug\netcoreapp3.1\Cuenta_bancaria.pdb
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\obj\Debug\netcoreapp3.1\Cuenta_bancaria.csproj.AssemblyReference.cache
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\obj\Debug\netcoreapp3.1\Cuenta_bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\obj\Debug\netcoreapp3.1\Cuenta_bancaria.AssemblyInfoInputs.cache
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\obj\Debug\netcoreapp3.1\Cuenta_bancaria.AssemblyInfo.cs
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\obj\Debug\netcoreapp3.1\Cuenta_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\obj\Debug\netcoreapp3.1\Cuenta_bancaria.dll
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\obj\Debug\netcoreapp3.1\Cuenta_bancaria.pdb
+C:\Users\lizbe\Source\Repos\Cuenta_bancaria\Cuenta_bancaria\obj\Debug\netcoreapp3.1\Cuenta_bancaria.genruntimeconfig.cache
